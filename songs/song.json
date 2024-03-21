@@ -1,0 +1,25 @@
+{
+    "songs": [
+      {
+        "song_id": 1,
+        "title": "ricchi x sempre",
+        "author": "sfera",
+        "lyrics": "lancio i soldi in aria, anche oggi sono il re .....",
+        "thumbnail": "https://example.com/thumbnails/dreamhttps://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F5a6c22580a0a64b2e7ccd70af39110a9.1000x1000x1.jpg_on.jpg"
+      },
+      {
+        "song_id": 2,
+        "title": "finesse",
+        "author": "drake",
+        "lyrics": "i want my baby to have your eyes .....",
+        "thumbnail": "https://example.com/thumbnails/dreamhttps://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F5a6c22580a0a64b2e7ccd70af39110a9.1000x1000x1.jpg_on.jpg"
+      },
+      {
+        "song_id": 3,
+        "title": "3500",
+        "author": "travis",
+        "lyrics": "ladies order up the champagne, a whole lot of it .....",
+        "thumbnail": "https://example.com/thumbnails/dreamhttps://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F5a6c22580a0a64b2e7ccd70af39110a9.1000x1000x1.jpg_on.jpg"
+      }
+    ]
+  }

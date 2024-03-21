@@ -1,0 +1,42 @@
+doctype html
+html
+  head
+    title= song.title
+    style.
+      /* CSS Styles */
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        margin-top: 20px;
+      }
+      .song-details {
+        margin-top: 40px;
+        width: 50%;
+        margin: auto;
+        text-align: left;
+      }
+      h2 {
+        margin-top: 20px;
+      }
+      .detail-item {
+        margin-bottom: 10px;
+      }
+      img {
+        display: block;
+        margin: 20px auto;
+        max-width: 80%;
+        height: auto;
+      }
+
+  body
+    h1 #{song.title}   // Displays the song title
+    .song-details
+      h2 Author:         // Heading for author
+      p #{song.author}  // Displays the author's name
+      h2 Lyrics:         // Heading for lyrics
+      p #{song.lyrics}  // Displays the song's lyrics
+      img(src=song.thumbnail, alt=song.title) // Displays the thumbnail image
